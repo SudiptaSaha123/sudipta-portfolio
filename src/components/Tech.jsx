@@ -14,13 +14,13 @@ const Tech = () => {
         My Tech Stack
       </div>
       <div className='flex justify-center gap-10 mt-8 mb-10'> 
-      <Image src="/4.png" width={150} height={150} className=''/>
-      <Image src="/5.png" width={150} height={150} className=''/>
-      <Image src="/3.png" width={150} height={150} className=''/>
-      <Image src="/2.png" width={150} height={150} className=''/>
-      <Image src="/1.png" width={150} height={150} className=''/>
-      <Image src="/6.png" width={150} height={150} className=''/>
-      <Image src="/7.png" width={150} height={150} className=''/> 
+      <Image src="/4.png" width={140} height={140} className=''/>
+      <Image src="/5.png" width={140} height={140} className=''/>
+      <Image src="/3.png" width={140} height={140} className=''/>
+      <Image src="/2.png" width={140} height={140} className=''/>
+      <Image src="/1.png" width={140} height={140} className=''/>
+      <Image src="/6.png" width={140} height={140} className=''/>
+      <Image src="/7.png" width={140} height={140} className=''/> 
       </div>
     </motion.div>
   )
