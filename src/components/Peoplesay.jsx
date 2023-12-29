@@ -10,7 +10,7 @@ const Peoplesay = () => {
     initial="hidden"
     whileInView="show" className='bg-black py-10 mt-20 px-10'>
         <div>
-            <div className='text-white text-[2rem] sm:text-[4.5rem] ml-4 text-center'>
+            <div className='text-white text-[2rem] sm:text-[3.5rem] ml-4 text-center'>
                 What People Say about My Project
             </div>
         </div>

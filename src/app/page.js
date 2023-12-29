@@ -15,6 +15,7 @@ const page = () => {
         <Navbar/>
         <Hero/>
         <Technical/>
+        <Tech/>
         {/* <Build/> */}
         {/* <Tech/>    */}
         <Project/>
