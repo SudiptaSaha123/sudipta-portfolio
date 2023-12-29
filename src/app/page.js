@@ -6,7 +6,9 @@ import Build from '@/components/Build'
 import Tech from '@/components/Tech'
 import Explore from '@/components/Explore'
 import Peoplesay from '@/components/Peoplesay'
-
+import Project from '@/components/Project'
+import Footer from '@/components/Footer'
+import Contact from '@/components/Contact'
 const page = () => {
   return (
     <div>
@@ -15,8 +17,11 @@ const page = () => {
         <Technical/>
         {/* <Build/> */}
         {/* <Tech/>    */}
+        <Project/>
         <Peoplesay/>
         <Explore/>
+        <Contact/>
+        <Footer/>
     </div>
   )
 }
