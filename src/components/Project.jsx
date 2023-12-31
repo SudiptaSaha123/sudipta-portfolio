@@ -17,9 +17,9 @@ const Build = () => {
               </div>
               <div className='flex flex-col items-start gap-14'>
               <ProjectCard title={"A Full Stack Event Mangement Platform"} imgUrl={'/project1.png'} oriUrl={"https://event-platform-phi.vercel.app/"}/>
-              <ProjectCard title={"A Bank Application Frontend"} imgUrl={'/project3.png'}/>
-              <ProjectCard title={"A Travel Website Frontend"} imgUrl={'/project4.png'}/>
-              <ProjectCard title={"A Full Stack Social Media Application"} imgUrl={'/project2.png'}/>
+              <ProjectCard title={"A Bank Application Frontend"} imgUrl={'/project3.png'} oriUrl={"https://bank-application-delta.vercel.app/"}/>
+              <ProjectCard title={"A Travel Website Frontend"} imgUrl={'/project4.png'} oriUrl={"https://event-platform-phi.vercel.app/"}/>
+              <ProjectCard title={"A Full Stack Social Media Application"} imgUrl={'/project2.png'} oriUrl={"https://snapgram-sable.vercel.app/"}/>
               </div>
             </div>
         </div>
