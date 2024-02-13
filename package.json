@@ -12,7 +12,7 @@
     "@radix-ui/react-hover-card": "^1.0.7",
     "@radix-ui/react-separator": "^1.0.3",
     "class-variance-authority": "^0.7.0",
-    "clsx": "^2.0.0",
+    "clsx": "^2.1.0",
     "framer-motion": "^10.16.16",
     "lucide-react": "^0.303.0",
     "next": "14.0.4",

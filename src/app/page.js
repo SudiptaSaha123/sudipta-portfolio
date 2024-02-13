@@ -1,17 +1,17 @@
 import React from 'react'
-import Technical from '@/components/Technical'
+import Technical from '../components/Technical'
 import Hero from '../components/Hero'
 import Navbar from '../components/Navbar'
-import Build from '@/components/Build'
-import Tech from '@/components/Tech'
-import Explore from '@/components/Explore'
-import Peoplesay from '@/components/Peoplesay'
-import Project from '@/components/Project'
-import Footer from '@/components/Footer'
-import Contact from '@/components/Contact'
+import Build from '../components/Build'
+import Tech from '../components/Tech'
+import Explore from '../components/Explore'
+import Peoplesay from '../components/Peoplesay'
+import Project from '../components/Project'
+import Footer from '../components/Footer'
+import Contact from '../components/Contact'
 const page = () => {
   return (
-    <div>
+    <div className='overflow-x-hidden'>
         <Navbar/>
         <Hero/>
         <Technical/>
@@ -19,8 +19,8 @@ const page = () => {
         {/* <Build/> */}
         {/* <Tech/>    */}
         <Project/>
-        <Peoplesay/>
-        <Explore/>
+        {/* <Peoplesay/> */}
+        {/* <Explore/> */}
         <Contact/>
         <Footer/>
     </div>
